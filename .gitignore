@@ -3,6 +3,6 @@ node_modules
 dist
 .mastra
 .env.development
-.env.secret
+.env.secret OPENAI_API_KEY=""
 *.db
 *.db-*
