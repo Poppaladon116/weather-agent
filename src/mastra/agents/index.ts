@@ -1,4 +1,4 @@
-import { openai } from '@ai-sdk/openai';
+import { openai } from '.env';
 import { Agent } from '@mastra/core/agent';
 import { weatherTool } from '../tools';
 
